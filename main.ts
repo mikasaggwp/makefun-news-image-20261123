@@ -1,5 +1,5 @@
 // MakeFun news-image entry for mikasaggwp.
-// Copies the approved v4 world-news image (entry.png, 1024x1024 JPEG bytes)
+// Copies the approved v5 world-news image (entry.png, 1024x1024 PNG bytes)
 // into the grader's output directory, verifying size first.
 import { copyFileSync, mkdirSync, statSync } from 'node:fs';
 import { join } from 'node:path';
